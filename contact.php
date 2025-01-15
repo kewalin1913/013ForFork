@@ -21,7 +21,7 @@
 
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">ติดต่องาน</li>
-				<li><a href="contact.php">รายละเอียดเพิ่มเติม</li>
+				<li><a href="contact.php">รายละเอียดเพิ่มเติมที่นี่จ้า</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
